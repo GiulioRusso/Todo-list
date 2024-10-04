@@ -2,7 +2,7 @@
 
 Minimal To-Do List App is a simple and elegant solution to help you keep track of your tasks without the distractions of complex features. Designed with a minimalist approach, this app allows you to focus on what really matters: getting things done.
 
-<img src="./images/example.png" width="70%">
+<img src="./images/example.png" width="60%">
 
 # How to run it
 
